@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156569006631",
+    "firebase_url": "https://ysrfeng.firebaseio.com",
+    "project_id": "ysrfeng",
+    "storage_bucket": "ysrfeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156569006631:android:4515d5b42434bf98",
+        "android_client_info": {
+          "package_name": "com.ysr.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156569006631-qmm2p9nv6kkt5b90b47ajn0qsaso7j3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ysr.express",
+            "certificate_hash": "9a30a1b3e3c28a461cbe06f084be412f233ce8c3"
+          }
+        },
+        {
+          "client_id": "156569006631-8733t4l0o53o2q16a4o7i9v53kuc4no8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL02OPH0ZsUmSqLKbrNLfgL93CThgOd_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156569006631-8733t4l0o53o2q16a4o7i9v53kuc4no8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
